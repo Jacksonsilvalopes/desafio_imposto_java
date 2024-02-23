@@ -85,7 +85,7 @@ public class Main {
         System.out.printf("Gastos dedutíveis: %.2f %n", pretencaoAbatimento);
         System.out.println(" ");
 
-        System.out.printf("RESUMO:");
+        System.out.println("RESUMO:");
         System.out.printf("Imposto bruto total: %.2f %n", totalImposto);
         System.out.printf("Abatimento: %.2f %n", Abatimento);
         System.out.printf("Imposto devido: %.2f %n", totalImpostoComAbatimento);
