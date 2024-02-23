@@ -90,6 +90,6 @@ public class Main {
         System.out.printf("Abatimento: %.2f %n", Abatimento);
         System.out.printf("Imposto devido: %.2f %n", totalImpostoComAbatimento);
 
-
+        sc.close();
     }
 }
